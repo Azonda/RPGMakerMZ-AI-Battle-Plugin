@@ -4,6 +4,7 @@ A collection of RPG Maker MZ plugins that leverage Large Language Models (LLMs) 
 一套 RPG Maker MZ 插件，利用大语言模型 (LLM) 接管角色的战斗决策。它将传统的自动战斗转变为基于当前战场态势的动态“智能”决策过程。
 
 Warning: This plugin might work not correctly, for learning and experimental use only.
+
 注意：该插件可能工作不稳定，仅供实验和学习使用。
 
 ---
